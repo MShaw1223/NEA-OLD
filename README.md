@@ -1,1 +1,1 @@
-# NEA I have decided to create an SPA for my computer science project
+# NEA: A trading tracker SPA for my computer science project 
