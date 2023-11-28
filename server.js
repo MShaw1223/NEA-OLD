@@ -6,4 +6,4 @@ app.get("/*", (req,res)=>{
     res.sendFile(path.resolve("frontend", "index.html"));
 });
 
-app.listen(process.env.port ||5060, ()=>console.log("Server running"))
+app.listen(process.env.port || 1080, ()=>console.log("Server running"))
