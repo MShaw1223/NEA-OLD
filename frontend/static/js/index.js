@@ -1,2 +1,2 @@
-console.log("JS IS LOADED + WORKING FINE");
+console.log("JS IS LOADED");
 //client side entry point
